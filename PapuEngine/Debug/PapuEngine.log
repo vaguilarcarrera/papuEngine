@@ -1,0 +1,26 @@
+﻿  Window.cpp
+  TextureCache.cpp
+  SriteBatch.cpp
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\sritebatch.cpp(32): warning C4018: '<': signed/unsigned mismatch
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\sritebatch.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  Sprite.cpp
+  ResourceManager.cpp
+  picoPNG.cpp
+  PapuEngine.cpp
+  MainGame.cpp
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\maingame.cpp(68): warning C4018: '<': signed/unsigned mismatch
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\maingame.cpp(117): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  main.cpp
+  IOManager.cpp
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\iomanager.cpp(15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\iomanager.cpp(18): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  InputManager.cpp
+  ImageLoader.cpp
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\imageloader.cpp(36): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+e:\universidad\teoria_de_juegos\papu-framework\papuengine\imageloader.cpp(37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+  GLS_Program.cpp
+  Error.cpp
+  Camera2D.cpp
+  Generating Code...
+  PapuEngine.vcxproj -> E:\Universidad\Teoria_de_Juegos\papu-framework\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> E:\Universidad\Teoria_de_Juegos\papu-framework\Debug\PapuEngine.pdb (Partial PDB)
