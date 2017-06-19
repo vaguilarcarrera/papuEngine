@@ -1,26 +1,44 @@
-﻿  Window.cpp
+﻿  Zombie.cpp
+  Window.cpp
   TextureCache.cpp
-  SriteBatch.cpp
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\sritebatch.cpp(32): warning C4018: '<': signed/unsigned mismatch
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\sritebatch.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  SpriteBacth.cpp
+d:\tarea2\papu-framework-master\papuengine\spritebacth.cpp(15): warning C4018: '<': signed/unsigned mismatch
+d:\tarea2\papu-framework-master\papuengine\spritebacth.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\tarea2\papu-framework-master\papuengine\spritebacth.cpp(72): warning C4018: '<': signed/unsigned mismatch
   Sprite.cpp
   ResourceManager.cpp
+  Player.cpp
   picoPNG.cpp
   PapuEngine.cpp
   MainGame.cpp
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\maingame.cpp(68): warning C4018: '<': signed/unsigned mismatch
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\maingame.cpp(117): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\maingame.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\maingame.cpp(39): warning C4018: '<': signed/unsigned mismatch
+d:\tarea2\papu-framework-master\papuengine\maingame.cpp(128): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
   main.cpp
+  Level.cpp
+d:\tarea2\papu-framework-master\papuengine\level.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\tarea2\papu-framework-master\papuengine\level.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\tarea2\papu-framework-master\papuengine\level.cpp(64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\level.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   IOManager.cpp
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\iomanager.cpp(15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\iomanager.cpp(18): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\iomanager.cpp(15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\iomanager.cpp(18): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
   InputManager.cpp
   ImageLoader.cpp
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\imageloader.cpp(36): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
-e:\universidad\teoria_de_juegos\papu-framework\papuengine\imageloader.cpp(37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\imageloader.cpp(36): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\imageloader.cpp(37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+  Human.cpp
+d:\tarea2\papu-framework-master\papuengine\human.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\tarea2\papu-framework-master\papuengine\human.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   GLS_Program.cpp
   Error.cpp
   Camera2D.cpp
+  Bullet.cpp
   Generating Code...
-  PapuEngine.vcxproj -> E:\Universidad\Teoria_de_Juegos\papu-framework\Debug\PapuEngine.exe
-  PapuEngine.vcxproj -> E:\Universidad\Teoria_de_Juegos\papu-framework\Debug\PapuEngine.pdb (Partial PDB)
+  Compiling...
+  Agent.cpp
+d:\tarea2\papu-framework-master\papuengine\agent.cpp(64): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Generating Code...
+  LINK : D:\TAREA2\papu-framework-master\Debug\PapuEngine.exe not found or not built by the last incremental link; performing full link
+  PapuEngine.vcxproj -> D:\TAREA2\papu-framework-master\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> D:\TAREA2\papu-framework-master\Debug\PapuEngine.pdb (Partial PDB)
